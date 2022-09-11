@@ -1,6 +1,6 @@
-# cool-background
+# julia-background
 
-repository to generate a cool background for [my LinkedIn profile](https://www.linkedin.com/in/f3rnnds), based on the JuliaMono font example image
+repository to generate a background for [my LinkedIn profile](https://www.linkedin.com/in/f3rnnds), based on the JuliaMono font example image
 
 ![](output.png)
 
